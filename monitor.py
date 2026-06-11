@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN ="8335424933:AAGC0T-TTzU-TjjCA6g9t1MAMtsd76FZF8c"
+TOKEN ="8780879869:AAE8fbIc-J7sz3GpUJUgxBtlMIa7aLM2Pxw"
 
 def start(update, context):
     update.message.reply_text("البوت شغال 🔥")
